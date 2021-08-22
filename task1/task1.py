@@ -46,7 +46,7 @@ def generateGradeCard(mapping_dict):
 
 	Parameters
 	----------
-	mapping_dict : dict
+	mapping_dict : dictionary
 		Mapping of each student's name and his/her marks for each subject as { Key : Value } pair
 
 	Returns
